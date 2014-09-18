@@ -1,8 +1,8 @@
 {
-  "name": "Ruby on Rails",
-  "description": "A template for getting started with the popular Ruby framework.",
+  "name": "Ruby2.2.0-preview1 on Rails",
+  "description": "Ruby2.2.0-preview1 on Rails sample",
   "website": "http://rubyonrails.org",
-  "repository": "https://github.com/heroku/ruby-rails-sample",
+  "repository": "https://github.com/ayumin/ruby-rails-sample",
   "logo": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"

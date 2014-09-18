@@ -1,5 +1,7 @@
 # ruby-rails-sample
 
+[Ruby 2.2.0-preview1 now available on Heroku](https://devcenter.heroku.com/changelog-items/527)
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
